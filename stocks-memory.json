@@ -1,7 +1,499 @@
 {
-  "stocks": {},
-  "lastUpdated": 0,
+  "stocks": {
+    "1": {
+      "recent": [
+        1164.23,
+        1164.14,
+        1164.14,
+        1164.33
+      ],
+      "dayLow": 1164.14,
+      "dayHigh": 1164.33,
+      "weekLow": 1164.14,
+      "weekHigh": 1164.33,
+      "allTimeLow": 1164.14,
+      "allTimeHigh": 1164.33
+    },
+    "2": {
+      "recent": [
+        1190.9,
+        1190.82,
+        1190.86,
+        1191.03
+      ],
+      "dayLow": 1190.82,
+      "dayHigh": 1191.03,
+      "weekLow": 1190.82,
+      "weekHigh": 1191.03,
+      "allTimeLow": 1190.82,
+      "allTimeHigh": 1191.03
+    },
+    "3": {
+      "recent": [
+        677.74,
+        677.75,
+        677.71,
+        677.63
+      ],
+      "dayLow": 677.63,
+      "dayHigh": 677.75,
+      "weekLow": 677.63,
+      "weekHigh": 677.75,
+      "allTimeLow": 677.63,
+      "allTimeHigh": 677.75
+    },
+    "4": {
+      "recent": [
+        450.12,
+        450.14,
+        450.18,
+        450.18
+      ],
+      "dayLow": 450.12,
+      "dayHigh": 450.18,
+      "weekLow": 450.12,
+      "weekHigh": 450.18,
+      "allTimeLow": 450.12,
+      "allTimeHigh": 450.18
+    },
+    "5": {
+      "recent": [
+        181,
+        181,
+        180.97,
+        180.98
+      ],
+      "dayLow": 180.97,
+      "dayHigh": 181,
+      "weekLow": 180.97,
+      "weekHigh": 181,
+      "allTimeLow": 180.97,
+      "allTimeHigh": 181
+    },
+    "6": {
+      "recent": [
+        302.58,
+        302.55,
+        302.54,
+        302.46
+      ],
+      "dayLow": 302.46,
+      "dayHigh": 302.58,
+      "weekLow": 302.46,
+      "weekHigh": 302.58,
+      "allTimeLow": 302.46,
+      "allTimeHigh": 302.58
+    },
+    "7": {
+      "recent": [
+        390.81,
+        390.84,
+        390.8,
+        390.82
+      ],
+      "dayLow": 390.8,
+      "dayHigh": 390.84,
+      "weekLow": 390.8,
+      "weekHigh": 390.84,
+      "allTimeLow": 390.8,
+      "allTimeHigh": 390.84
+    },
+    "8": {
+      "recent": [
+        54.44,
+        54.44,
+        54.46,
+        54.46
+      ],
+      "dayLow": 54.44,
+      "dayHigh": 54.46,
+      "weekLow": 54.44,
+      "weekHigh": 54.46,
+      "allTimeLow": 54.44,
+      "allTimeHigh": 54.46
+    },
+    "9": {
+      "recent": [
+        310.58,
+        310.52,
+        310.49,
+        310.49
+      ],
+      "dayLow": 310.49,
+      "dayHigh": 310.58,
+      "weekLow": 310.49,
+      "weekHigh": 310.58,
+      "allTimeLow": 310.49,
+      "allTimeHigh": 310.58
+    },
+    "10": {
+      "recent": [
+        883.85,
+        883.8,
+        883.87,
+        883.92
+      ],
+      "dayLow": 883.8,
+      "dayHigh": 883.92,
+      "weekLow": 883.8,
+      "weekHigh": 883.92,
+      "allTimeLow": 883.8,
+      "allTimeHigh": 883.92
+    },
+    "11": {
+      "recent": [
+        280.84,
+        280.85,
+        280.91,
+        280.91
+      ],
+      "dayLow": 280.84,
+      "dayHigh": 280.91,
+      "weekLow": 280.84,
+      "weekHigh": 280.91,
+      "allTimeLow": 280.84,
+      "allTimeHigh": 280.91
+    },
+    "12": {
+      "recent": [
+        228.51,
+        228.55,
+        228.55,
+        228.55
+      ],
+      "dayLow": 228.51,
+      "dayHigh": 228.55,
+      "weekLow": 228.51,
+      "weekHigh": 228.55,
+      "allTimeLow": 228.51,
+      "allTimeHigh": 228.55
+    },
+    "13": {
+      "recent": [
+        525.68,
+        525.79,
+        525.74,
+        525.86
+      ],
+      "dayLow": 525.68,
+      "dayHigh": 525.86,
+      "weekLow": 525.68,
+      "weekHigh": 525.86,
+      "allTimeLow": 525.68,
+      "allTimeHigh": 525.86
+    },
+    "14": {
+      "recent": [
+        132,
+        132.01,
+        132.01,
+        132.01
+      ],
+      "dayLow": 132,
+      "dayHigh": 132.01,
+      "weekLow": 132,
+      "weekHigh": 132.01,
+      "allTimeLow": 132,
+      "allTimeHigh": 132.01
+    },
+    "15": {
+      "recent": [
+        843.82,
+        843.73,
+        843.65,
+        843.79
+      ],
+      "dayLow": 843.65,
+      "dayHigh": 843.82,
+      "weekLow": 843.65,
+      "weekHigh": 843.82,
+      "allTimeLow": 843.65,
+      "allTimeHigh": 843.82
+    },
+    "16": {
+      "recent": [
+        693.36,
+        693.43,
+        693.24,
+        693.3
+      ],
+      "dayLow": 693.24,
+      "dayHigh": 693.43,
+      "weekLow": 693.24,
+      "weekHigh": 693.43,
+      "allTimeLow": 693.24,
+      "allTimeHigh": 693.43
+    },
+    "17": {
+      "recent": [
+        572.03,
+        572.04,
+        571.71,
+        571.71
+      ],
+      "dayLow": 571.71,
+      "dayHigh": 572.04,
+      "weekLow": 571.71,
+      "weekHigh": 572.04,
+      "allTimeLow": 571.71,
+      "allTimeHigh": 572.04
+    },
+    "18": {
+      "recent": [
+        619.04,
+        618.96,
+        619,
+        619.01
+      ],
+      "dayLow": 618.96,
+      "dayHigh": 619.04,
+      "weekLow": 618.96,
+      "weekHigh": 619.04,
+      "allTimeLow": 618.96,
+      "allTimeHigh": 619.04
+    },
+    "19": {
+      "recent": [
+        283.72,
+        283.74,
+        283.75,
+        283.71
+      ],
+      "dayLow": 283.71,
+      "dayHigh": 283.75,
+      "weekLow": 283.71,
+      "weekHigh": 283.75,
+      "allTimeLow": 283.71,
+      "allTimeHigh": 283.75
+    },
+    "20": {
+      "recent": [
+        302.93,
+        302.95,
+        302.76,
+        302.7
+      ],
+      "dayLow": 302.7,
+      "dayHigh": 302.95,
+      "weekLow": 302.7,
+      "weekHigh": 302.95,
+      "allTimeLow": 302.7,
+      "allTimeHigh": 302.95
+    },
+    "21": {
+      "recent": [
+        320.88,
+        320.85,
+        320.85,
+        320.88
+      ],
+      "dayLow": 320.85,
+      "dayHigh": 320.88,
+      "weekLow": 320.85,
+      "weekHigh": 320.88,
+      "allTimeLow": 320.85,
+      "allTimeHigh": 320.88
+    },
+    "22": {
+      "recent": [
+        266.72,
+        266.72,
+        266.75,
+        266.77
+      ],
+      "dayLow": 266.72,
+      "dayHigh": 266.77,
+      "weekLow": 266.72,
+      "weekHigh": 266.77,
+      "allTimeLow": 266.72,
+      "allTimeHigh": 266.77
+    },
+    "23": {
+      "recent": [
+        145.61,
+        145.58,
+        145.58,
+        145.56
+      ],
+      "dayLow": 145.56,
+      "dayHigh": 145.61,
+      "weekLow": 145.56,
+      "weekHigh": 145.61,
+      "allTimeLow": 145.56,
+      "allTimeHigh": 145.61
+    },
+    "24": {
+      "recent": [
+        553.41,
+        553.48,
+        553.51,
+        553.45
+      ],
+      "dayLow": 553.41,
+      "dayHigh": 553.51,
+      "weekLow": 553.41,
+      "weekHigh": 553.51,
+      "allTimeLow": 553.41,
+      "allTimeHigh": 553.51
+    },
+    "25": {
+      "recent": [
+        107.23,
+        107.23,
+        107.26,
+        107.25
+      ],
+      "dayLow": 107.23,
+      "dayHigh": 107.26,
+      "weekLow": 107.23,
+      "weekHigh": 107.26,
+      "allTimeLow": 107.23,
+      "allTimeHigh": 107.26
+    },
+    "26": {
+      "recent": [
+        528.99,
+        529.21,
+        529.2,
+        529.1
+      ],
+      "dayLow": 528.99,
+      "dayHigh": 529.21,
+      "weekLow": 528.99,
+      "weekHigh": 529.21,
+      "allTimeLow": 528.99,
+      "allTimeHigh": 529.21
+    },
+    "27": {
+      "recent": [
+        482.08,
+        482.22,
+        482.17,
+        482.28
+      ],
+      "dayLow": 482.08,
+      "dayHigh": 482.28,
+      "weekLow": 482.08,
+      "weekHigh": 482.28,
+      "allTimeLow": 482.08,
+      "allTimeHigh": 482.28
+    },
+    "28": {
+      "recent": [
+        636.32,
+        636.27,
+        636.16,
+        636.11
+      ],
+      "dayLow": 636.11,
+      "dayHigh": 636.32,
+      "weekLow": 636.11,
+      "weekHigh": 636.32,
+      "allTimeLow": 636.11,
+      "allTimeHigh": 636.32
+    },
+    "29": {
+      "recent": [
+        801.74,
+        801.62,
+        801.54,
+        801.46
+      ],
+      "dayLow": 801.46,
+      "dayHigh": 801.74,
+      "weekLow": 801.46,
+      "weekHigh": 801.74,
+      "allTimeLow": 801.46,
+      "allTimeHigh": 801.74
+    },
+    "30": {
+      "recent": [
+        770.81,
+        770.61,
+        770.59,
+        770.66
+      ],
+      "dayLow": 770.59,
+      "dayHigh": 770.81,
+      "weekLow": 770.59,
+      "weekHigh": 770.81,
+      "allTimeLow": 770.59,
+      "allTimeHigh": 770.81
+    },
+    "31": {
+      "recent": [
+        512.56,
+        512.49,
+        512.56,
+        512.6
+      ],
+      "dayLow": 512.49,
+      "dayHigh": 512.6,
+      "weekLow": 512.49,
+      "weekHigh": 512.6,
+      "allTimeLow": 512.49,
+      "allTimeHigh": 512.6
+    },
+    "32": {
+      "recent": [
+        344.75,
+        344.77,
+        344.77,
+        344.79
+      ],
+      "dayLow": 344.75,
+      "dayHigh": 344.79,
+      "weekLow": 344.75,
+      "weekHigh": 344.79,
+      "allTimeLow": 344.75,
+      "allTimeHigh": 344.79
+    },
+    "33": {
+      "recent": [
+        390.41,
+        390.45,
+        390.34,
+        390.38
+      ],
+      "dayLow": 390.34,
+      "dayHigh": 390.45,
+      "weekLow": 390.34,
+      "weekHigh": 390.45,
+      "allTimeLow": 390.34,
+      "allTimeHigh": 390.45
+    },
+    "34": {
+      "recent": [
+        109.6,
+        109.59,
+        109.61,
+        109.6
+      ],
+      "dayLow": 109.59,
+      "dayHigh": 109.61,
+      "weekLow": 109.59,
+      "weekHigh": 109.61,
+      "allTimeLow": 109.59,
+      "allTimeHigh": 109.61
+    },
+    "35": {
+      "recent": [
+        75.46,
+        75.46,
+        75.46,
+        75.45
+      ],
+      "dayLow": 75.45,
+      "dayHigh": 75.46,
+      "weekLow": 75.45,
+      "weekHigh": 75.46,
+      "allTimeLow": 75.45,
+      "allTimeHigh": 75.46
+    }
+  },
+  "lastUpdated": 1766068892022,
   "lastAlert": {},
-  "_day": null,
-  "_week": null
+  "_day": "Thu Dec 18 2025",
+  "_week": "2025-11",
+  "_sha": "008a1582cc48a54f1ee8af70812a32437e4bf8e6"
 }
