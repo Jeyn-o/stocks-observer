@@ -1,9 +1,13 @@
 {
-  "_sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
+  "_sha": "7a7f1da10b2d5a9fb349a95cd0e8f158651ef1d3",
   "Chedburn [1]": [
     {
       "stock": "TCM",
       "value": 110
+    },
+    {
+      "stock": "GRN",
+      "value": 44
     }
   ]
 }
