@@ -1,5 +1,5 @@
 {
-  "_sha": "57d5f35f1badbe9a65e9377f63ead9148732ddc1",
+  "_sha": "c15f457611069a9cd860be32a140b4ba2f5b956e",
   "Chedburn [1]": [
     {
       "stock": "TCM",
@@ -12,6 +12,10 @@
     {
       "stock": "FHG",
       "value": 1919
+    },
+    {
+      "stock": "EVL",
+      "value": 4
     }
   ]
 }
