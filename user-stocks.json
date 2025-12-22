@@ -1,9 +1,13 @@
 {
-  "_sha": "8bf89fe1903c81a19fb5ecfea79cead1832f7a94",
+  "_sha": "ce6f8e5821d47d6bb07e9660d905ce9b34149b0d",
   "Chedburn [1]": [
     {
       "stock": "ELT",
       "value": 315.35
+    },
+    {
+      "stock": "TCP",
+      "value": 528.08
     }
   ],
   "bogie [2]": []
