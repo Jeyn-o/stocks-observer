@@ -1,5 +1,5 @@
 {
-  "_sha": "ff844ce194f6dd05e147018a65fb4245cf083288",
+  "_sha": "5bae073b75ec9a67e3ce5feafb7cbd26e1629e76",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -40,6 +40,11 @@
       "stock": "ASS",
       "value": 350.42,
       "profitThreshold": 0.17521
+    },
+    {
+      "stock": "315.26",
+      "value": 0,
+      "profitThreshold": 0
     }
   ],
   "bogie [2]": []
