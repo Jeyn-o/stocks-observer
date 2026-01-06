@@ -1,5 +1,5 @@
 {
-  "_sha": "64a9fdccec78c6f1eebaa5d1fecd94042ca606b5",
+  "_sha": "0bc3adc6f6b1c47351011d6912e9860751ef5356",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -90,6 +90,11 @@
       "stock": "HRG",
       "value": 270.14,
       "profitThreshold": 0
+    },
+    {
+      "stock": "FHG",
+      "value": 839.61,
+      "profitThreshold": 602
     }
   ],
   "bogie [2]": []
