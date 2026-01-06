@@ -1,5 +1,5 @@
 {
-  "_sha": "5bae073b75ec9a67e3ce5feafb7cbd26e1629e76",
+  "_sha": "597ee715e7dc4e320bb519acf7be3d7b74a2269f",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -44,6 +44,11 @@
     {
       "stock": "315.26",
       "value": 0,
+      "profitThreshold": 0
+    },
+    {
+      "stock": "ELT",
+      "value": 315.26,
       "profitThreshold": 0
     }
   ],
