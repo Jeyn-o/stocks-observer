@@ -1,5 +1,5 @@
 {
-  "_sha": "555bcf9b359a1e4c76c8c3138857412c66e0fd8a",
+  "_sha": "60a448fd38fb45e6520a5d130b55fed6655fda7f",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -19,6 +19,11 @@
     {
       "stock": "TCP",
       "value": 534.97,
+      "profitThreshold": 0
+    },
+    {
+      "stock": "BAG",
+      "value": 490.48,
       "profitThreshold": 0
     }
   ],
