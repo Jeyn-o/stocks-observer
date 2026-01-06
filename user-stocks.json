@@ -1,18 +1,5 @@
 {
-  "_sha": "43cbcac61acc4239210ac3376fc8a73cd4b21f7f",
+  "_sha": "6154a7527b2ff48f39fdd2a6e7a79c2cfdce005d",
   "Chedburn [1]": [],
-  "bogie [2]": [
-    {
-      "stock": "TCI",
-      "value": 1
-    },
-    {
-      "stock": "TCI",
-      "value": 1179.26
-    },
-    {
-      "stock": "TCI",
-      "value": 1179.26
-    }
-  ]
+  "bogie [2]": []
 }
