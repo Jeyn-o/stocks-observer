@@ -1,5 +1,5 @@
 {
-  "_sha": "0004e6cc80881f1123465fdf5c6a672107469476",
+  "_sha": "ce088f4fd58f3d07b9ef4a3f003438d97eaff7d8",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -64,6 +64,11 @@
     {
       "stock": "TGP",
       "value": 146.43,
+      "profitThreshold": 0
+    },
+    {
+      "stock": "LOS",
+      "value": 109.79,
       "profitThreshold": 0
     }
   ],
