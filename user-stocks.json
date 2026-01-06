@@ -1,6 +1,12 @@
 {
-  "_sha": "b9c336ce1b64ce51fdeab546e32e6a17046e1100",
-  "Chedburn [1]": [],
+  "_sha": "54d7a2705f8670bf9cf4fbd3bf857baff70d66e8",
+  "Chedburn [1]": [
+    {
+      "stock": "TCI",
+      "value": 1179.26,
+      "profitThreshold": 1.17926
+    }
+  ],
   "bogie [2]": [
     {
       "stock": "TCI",
