@@ -1,5 +1,5 @@
 {
-  "_sha": "60a448fd38fb45e6520a5d130b55fed6655fda7f",
+  "_sha": "51cd998d61a940245f7940dce2580c18c94264b8",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -24,6 +24,11 @@
     {
       "stock": "BAG",
       "value": 490.48,
+      "profitThreshold": 0
+    },
+    {
+      "stock": "LAG",
+      "value": 457.36,
       "profitThreshold": 0
     }
   ],
