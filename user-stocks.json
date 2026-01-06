@@ -1,5 +1,5 @@
 {
-  "_sha": "517e2590fbc6f98af69b7f875d361d299ab72b68",
+  "_sha": "555bcf9b359a1e4c76c8c3138857412c66e0fd8a",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -14,6 +14,11 @@
     {
       "stock": "MUN",
       "value": 563.09,
+      "profitThreshold": 0
+    },
+    {
+      "stock": "TCP",
+      "value": 534.97,
       "profitThreshold": 0
     }
   ],
