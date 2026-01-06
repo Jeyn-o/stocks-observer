@@ -1,10 +1,15 @@
 {
-  "_sha": "001018f075e8d20d26e2c23b3001e1e92fb78029",
+  "_sha": "e2e67eef7e58ee933a3a6a28c1d53d15b736ef36",
   "Chedburn [1]": [
     {
       "stock": "ELT",
       "value": 315.35
     }
   ],
-  "bogie [2]": []
+  "bogie [2]": [
+    {
+      "stock": "TCI",
+      "value": 1
+    }
+  ]
 }
