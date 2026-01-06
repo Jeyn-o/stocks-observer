@@ -1,9 +1,14 @@
 {
-  "_sha": "938e5dea49c1476a4f656b4ef0abde30b6bcfead",
+  "_sha": "8de66095e08d68079673d3e0fa53926343dccd04",
   "Chedburn [1]": [
     {
       "stock": "TCI",
       "value": 1191.45,
+      "profitThreshold": 0
+    },
+    {
+      "stock": "TCI",
+      "value": 1210.64,
       "profitThreshold": 0
     }
   ],
