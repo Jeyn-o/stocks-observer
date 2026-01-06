@@ -42,11 +42,6 @@
       "profitThreshold": 0.17521
     },
     {
-      "stock": "315.26",
-      "value": 0,
-      "profitThreshold": 0
-    },
-    {
       "stock": "ELT",
       "value": 315.26,
       "profitThreshold": 0
