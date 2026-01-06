@@ -1,6 +1,11 @@
 {
-  "_sha": "c9ad866a1abfe21e9244be0ad368afd614fa5184",
-  "Chedburn [1]": [],
+  "_sha": "8d28afb90beb1073e8416448a8f683a564b2f0ce",
+  "Chedburn [1]": [
+    {
+      "stock": "ASS",
+      "value": 1
+    }
+  ],
   "bogie [2]": [
     {
       "stock": "TCI",
