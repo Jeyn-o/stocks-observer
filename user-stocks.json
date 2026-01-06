@@ -1,5 +1,5 @@
 {
-  "_sha": "e648e0af1d44822937cd5d6ab01ad0f62b294822",
+  "_sha": "64a9fdccec78c6f1eebaa5d1fecd94042ca606b5",
   "Chedburn [1]": [
     {
       "stock": "TCI",
@@ -89,6 +89,11 @@
     {
       "stock": "GRN",
       "value": 304.54,
+      "profitThreshold": 0
+    },
+    {
+      "stock": "HRG",
+      "value": 270.14,
       "profitThreshold": 0
     }
   ],
