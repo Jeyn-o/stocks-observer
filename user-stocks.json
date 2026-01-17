@@ -1,5 +1,5 @@
 {
-  "_sha": "ba8ac43459c349a0e66017b49f55e756963021c8",
+  "_sha": "b87db7ab79972aa518f5e8c478d906c1783b86e8",
   "Chedburn [1]": [
     {
       "stock": "MUN",
@@ -49,11 +49,6 @@
     {
       "stock": "TGP",
       "value": 146.43,
-      "profitThreshold": 0
-    },
-    {
-      "stock": "CNC",
-      "value": 889.36,
       "profitThreshold": 0
     },
     {
