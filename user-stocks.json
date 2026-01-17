@@ -1,5 +1,5 @@
 {
-  "_sha": "204b8d13ecb2aeae1c2be33a4e8637444bd99f1b",
+  "_sha": "500b9aa5f6a481c325149048a5cc5513cd6e8251",
   "Chedburn [1]": [
     {
       "stock": "MUN",
@@ -72,5 +72,11 @@
       "profitThreshold": 0
     }
   ],
-  "bogie [2]": []
+  "bogie [2]": [
+    {
+      "stock": "TCP",
+      "value": 516.82,
+      "profitThreshold": 208
+    }
+  ]
 }
