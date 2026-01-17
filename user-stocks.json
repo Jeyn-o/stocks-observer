@@ -1,5 +1,5 @@
 {
-  "_sha": "2c64bac3bd44786bc65e7b15e8cfc9e6e605ebe4",
+  "_sha": "204b8d13ecb2aeae1c2be33a4e8637444bd99f1b",
   "Chedburn [1]": [
     {
       "stock": "MUN",
@@ -49,11 +49,6 @@
     {
       "stock": "TGP",
       "value": 146.43,
-      "profitThreshold": 0
-    },
-    {
-      "stock": "LOS",
-      "value": 109.79,
       "profitThreshold": 0
     },
     {
