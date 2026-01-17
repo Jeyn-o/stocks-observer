@@ -1,5 +1,5 @@
 {
-  "_sha": "500b9aa5f6a481c325149048a5cc5513cd6e8251",
+  "_sha": "7ddd6b8d2784fcdd1abbb2d513a0c65e8084d22c",
   "Chedburn [1]": [
     {
       "stock": "MUN",
@@ -59,11 +59,6 @@
     {
       "stock": "TCC",
       "value": 519.51,
-      "profitThreshold": 0
-    },
-    {
-      "stock": "GRN",
-      "value": 304.54,
       "profitThreshold": 0
     },
     {
