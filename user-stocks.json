@@ -1,5 +1,5 @@
 {
-  "_sha": "b87db7ab79972aa518f5e8c478d906c1783b86e8",
+  "_sha": "90cc6dd513d7e3106808fb3fa6b57d07c5c8576f",
   "Chedburn [1]": [
     {
       "stock": "MUN",
@@ -67,6 +67,12 @@
       "stock": "TCP",
       "value": 516.82,
       "profitThreshold": 7
+    }
+  ],
+  "Jeyno [2419133]": [
+    {
+      "stock": "LAG",
+      "value": 469.54
     }
   ]
 }
